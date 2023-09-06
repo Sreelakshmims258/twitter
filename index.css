@@ -1,0 +1,116 @@
+body{
+    background: #fff;
+
+}
+.header{
+    width: 100%;
+   font-family: TwitterChirpExtendedHeavy, Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.right{
+    width: 30%;
+}
+.left{
+    width: 60%;
+}
+.image{
+    width: 303.82px;
+    height: 274.63px;
+    margin-left: 202px;
+    margin-top: 191px;
+}
+.head1{
+    margin-left: 750px;
+    margin-top: -377px;
+    font-size: 64px;
+    font-weight: 700;
+    color: rgba(15,20,25,1.00);
+    font-family: TwitterChirpExtendedHeavy, Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    
+}
+.head2{
+    font-family: inherit;
+    margin-left: 753px;
+    font-size: 47px;
+}
+.gimage{
+    width: 14px;
+    height: 15px;
+}
+.aimage{
+    width: 14px;
+    height: 15px;
+}
+.sig-1{
+    margin-left: 756px;
+    border-radius: 20px;
+    padding: 10px 70px;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #dadce0;
+    color: #3c4043;
+}
+.sig-12{
+    margin-left: 756px;
+    border-radius: 20px;
+    padding: 10px 75px;
+    margin-top: 10px;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #dadce0;
+    color: #3c4043;
+}
+.line-1{
+    width:9%;
+    margin-left:770px;
+    margin-top: 20px;
+}
+.wor-1{
+    margin-left: 900px;
+    margin-top: -20px;
+
+}
+.line-2{
+    width: 8%;
+    margin-left: 927px;
+    margin-top: -25px;
+}
+.line-3{
+ margin-left: 770px;
+ margin-top: 10px;
+ padding: 10px 85px;
+ border-radius: 30px;
+ background: rgb(29, 155, 240);
+ border-color: rgba(0, 0, 0, 0);
+ cursor: pointer;
+ color: #fff;
+}
+.line-4{
+    margin-left: 775px;
+    font-size: 9px;
+}
+.line-5{
+    margin-left: 770px;
+    margin-top: 58px;
+}
+.line-6{
+    margin-left: 770px;
+    padding: 10px 100px;
+    border-radius: 30px;
+    background: #fff;
+   
+    color: rgb(29, 155, 240) ;
+  
+}
+.line-7{
+    margin-top: 50px;
+    word-spacing: 7px;
+    font-size: 12px;
+    
+}
+.line-8{
+    
+    word-spacing: 7px;
+    font-size: 12px;
+    margin-left: 500px;
+
+}
